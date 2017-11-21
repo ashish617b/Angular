@@ -117,6 +117,7 @@
     <Content Include="scripts\controllers\list.js" />
     <Content Include="css\style.css" />
     <Content Include="scripts\controllers\quiz.js" />
+    <Content Include="scripts\controllers\results.js" />
     <Content Include="scripts\factories\dataservice.js" />
     <Content Include="scripts\factories\quizMetrics.js" />
     <Content Include="Web.config" />
